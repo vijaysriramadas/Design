@@ -1,2 +1,2 @@
 # Design
-Single Page Website Design Model
+Mockup Template designs
